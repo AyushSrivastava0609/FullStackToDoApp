@@ -1,0 +1,41 @@
+/* TodoItem.css */
+.TodoItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+}
+
+.TodoItem h3 {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.TodoItem p {
+    margin: 5px 0;
+    color: #666;
+}
+
+.TodoItem button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.TodoItem button:hover {
+    opacity: 0.8;
+}
+
+.TodoItem .edit {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.TodoItem .delete {
+    background-color: #f44336;
+    color: white;
+}
