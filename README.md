@@ -14,4 +14,5 @@ This is a full-stack ToDo application built using MERN stack (MongoDB, Express.j
 
 - **Frontend:** React.js, Axios
 - **Backend:** Node.js, Express.js, MongoDB
-- **Deployment:** Vercel (frontend), TBD (backend deployment)
+- **Deployment:** Vercel
+- **Link:** https://full-stack-to-do-app-6rh2.vercel.app/
