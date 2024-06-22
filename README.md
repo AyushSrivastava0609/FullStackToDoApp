@@ -1,7 +1,7 @@
 
 # FullStackToDoApp
 
-This is a full-stack ToDo application built using MERN stack (MongoDB, Express.js, React.js, Node.js). The application allows users to manage their tasks with CRUD operations (Create, Read, Update, Delete).
+This is a FullStack ToDo Application built using MERN stack (MongoDB, Express.js, React.js, Node.js). The application allows users to manage their tasks with CRUD operations (Create, Read, Update, Delete).
 
 ## Features
 
